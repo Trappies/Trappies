@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Exciting web development projects that involve creating immersive user experiences and scalable backend architectures.<br><br>🌱 I’m currently learning: Advanced data structures and algorithms to sharpen my problem-solving skills and optimize code efficiency.<br><br>💬 Ask me about: My experience working with different programming languages, and how I transitioned from a novice coder to a proficient developer.<br><br>⚡ Fun fact: I'm a huge fan of Formula 1 🏎️, Rugby 🏉, and Cricket 🏏!
 
 
